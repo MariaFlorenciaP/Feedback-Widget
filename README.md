@@ -1,6 +1,6 @@
 # nlw-impulse
 Front-end application developed in nlw-impulse in React.
-App with form for users to leave differente types of feedback.
+App with form for users to leave different types of feedback.
 ## Tecnologies:
 React, Typescript, Tailwind, Vite.
 ## Libs: 
