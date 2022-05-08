@@ -1,11 +1,11 @@
 # nlw-impulse
-Front-end application developed in nlw-impulse in React.
+Front-end application developed in nlw-impulse in React with Typescript.
 App with form for users to leave different types of feedback.
 ## Tecnologies:
 React, Typescript, Tailwind, Vite.
 ## Libs: 
-[Headless UI].(https://headlessui.dev/)  
-[Phosphor Icons].(https://phosphoricons.com/)
+[Headless UI](https://headlessui.dev/)  
+[Phosphor Icons](https://phosphoricons.com/)
 ## How to run: 
 npm run dev
 ## License
