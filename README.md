@@ -13,5 +13,4 @@ npm run dev
 ## Credits: 
 [RocketSeat](https://www.rocketseat.com.br/)
 
-
-	![appfeedback](/home/maria.pimentel/Imagens/appfeedback.jpg)
+![appfeedback](/home/maria.pimentel/Imagens/appfeedback.jpg)
