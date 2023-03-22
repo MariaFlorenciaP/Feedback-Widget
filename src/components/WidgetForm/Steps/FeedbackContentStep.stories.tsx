@@ -15,7 +15,7 @@ export default {
             handlers: [
                 rest.post('/feedbacks', (req, res, ctx) => {
                     // return res(ctx.json({
-                    //     message: 'Hello world'
+                    //     message: 'Hello world'  isso aqui para quando quiser configurar uma resposta
                     // }))
                     return res()
                 })
