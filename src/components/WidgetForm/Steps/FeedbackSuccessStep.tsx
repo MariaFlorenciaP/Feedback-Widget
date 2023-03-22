@@ -4,7 +4,7 @@ interface FeedbackSuccessStepProps {
     onFeedbackRestartRequested: () => void;
 }
 
-export function FeddbackSuccessStep({
+export function FeedbackSuccessStep({
      onFeedbackRestartRequested 
     }: FeedbackSuccessStepProps) {
     return (

@@ -6,7 +6,7 @@ import { FeedbackContentStep } from "./Steps/FeedbackContentStep";
 import bugImageUrl from '../../assets/bug.svg';
 import ideaImageUrl from '../../assets/idea.svg';
 import thoughtImageUrl from '../../assets/thought.svg';
-import { FeddbackSuccessStep } from "./Steps/FeedbackSuccessStep";
+import { FeedbackSuccessStep } from "./Steps/FeedbackSuccessStep";
 
 
 
@@ -56,7 +56,7 @@ function handleRestartFeedback() {
         <div className="bg-zinc-900 p-4 relative rounded-2xl mb-4 flex flex-col items-center shadow-lg w-[calc(100vw-2rem)] md:w-auto">
           
             { feedbackSent ? (
-                <FeddbackSuccessStep onFeedbackRestartRequested={handleRestartFeedback} />
+                <FeedbackSuccessStep onFeedbackRestartRequested={handleRestartFeedback} />
             ) : (
                <>
                 {!feedbackType ? (
